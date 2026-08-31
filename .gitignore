@@ -1,0 +1,7 @@
+# Received files — never commit user uploads
+/uploads/
+
+# Python
+.venv/
+__pycache__/
+*.pyc
